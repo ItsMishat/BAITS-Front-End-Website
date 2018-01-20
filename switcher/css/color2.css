@@ -1,0 +1,24 @@
+.logo a.logo-color {
+	background-image: url(../../images/logo-blue1.png);
+	width: 170px;
+	height: 56px;
+	display: inline-block;
+}
+.logo-color {
+	margin-bottom: -6px;
+}
+.logo a.logo-color img {
+	display: none;
+}
+.mtmegamenu a.active .title.title_font span, .mini-cart .basket a .fa-shopping-cart:before, .demo_changer .demo-icon, .top-search a, .home-nav-tabs>li.active>a, .home-nav-tabs>li.active>a:hover, .home-nav-tabs>li.active>a:focus, .mini-cart .actions .btn-checkout, .info-box-1.square-icon .info-box-icon, .readMore, .language-currency-wrapper .block>ul li a:hover, .news-popup .form-subscribe .button:hover, .news-popup .form-subscribe .button:focus, .single-collection:hover .collections-link::before, .pr-button .mt-button a:hover, .add-to-cart-mt:hover, .slider-items-products .owl-buttons a:hover, .footer-newsletter .subscribe, .send-btn, .mini-cart .actions .view-cart:hover {
+	background-color: #0078ff !important;
+}
+a:hover, .top-cart-contain .product-details .price, .welcome-info .page-header .text-main, .tp-caption.s3-large span, .page-header .text-main, .special-price .price, .regular-price .price, .language-currency-wrapper .block>div>span:hover, .news-popup .popup-title .text-main, .newsletter-close, .adress-element .fa, .home-testimonials strong.name {
+	color: #0078ff !important;
+}
+.readMore:hover, .home-nav-tabs>li.active>a:hover, .language-currency-wrapper .block>ul li a:hover, .home-nav-tabs.home-product-tabs>li>a:hover, .pr-button .mt-button a:hover, .slider-items-products .owl-buttons a:hover, .social a:hover {
+	color: #fff !important;
+}
+.mini-cart .actions .view-cart, .home-nav-tabs>li.active>a, .mtmegamenu .menu-items, button.newsletter-close, .news-popup, .news-popup .form-subscribe .button:hover, .welcome-info .page-header p em, .totop, .slider-items-products .owl-buttons a:hover, button.button {
+	border-color: #0078ff !important;
+}

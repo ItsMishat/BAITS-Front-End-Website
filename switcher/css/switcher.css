@@ -1,0 +1,156 @@
+.styleswitch.layoutswitch {
+	background: none repeat scroll 0 0 #f4f4f4;
+	border: medium none !important;
+	color: #fff !important;
+	display: inline-block;
+	height: auto;
+	margin: 3px 0;
+	padding: 2px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 100%;
+	text-decoration: none !important;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	-ms-transition: all .3s ease-out;
+	-o-transition: all .3s ease-out;
+	transition: all .3s ease-out;
+}
+.styleswitch.layoutswitch:hover {
+	background: #000 !important;
+}
+.styleswitch {
+	background-color: #e425e9;
+	display: inline-block;
+	height: 28px;
+	margin: 4px 10px;
+	width: 28px;
+}
+#switcher-body .container {
+	background: #fff;
+	margin: 50px auto;
+	border: 1px solid #dedede;
+	padding: 40px;
+}
+.demo_changer {
+	z-index: 900;
+	position: fixed;
+	left: 0px;
+	top: 17%;
+	font-weight: 400 !important;
+}
+.purchase {
+	text-decoration: underline;
+	color: #4BACC6
+}
+.demoPanel {
+	position: relative;
+}
+.demo_changer p {
+	margin: 10px 0;
+}
+.demo_changer .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+	background: #fff;
+}
+.demo_changer h4 {
+	color: #545454 !important;
+	margin: 10px 0 !important;
+	text-transform: uppercase;
+}
+.demo_changer select:active, .demo_changer select:focus, .demo_changer select:hover, .demo_changer .button:active, .demo_changer .button:focus, .demo_changer .button:hover, .demo_changer .btn:active, .demo_changer .btn:focus, .demo_changer .btn:hover, .demo_changer .button:active, .demo_changer .button:focus, .demo_changer .button:hover {
+	box-shadow: none !important;
+}
+.demo_changer .button {
+	-moz-user-select: none;
+	background-image: none;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: normal;
+	background: #fff;
+	line-height: 1.42857;
+	margin-bottom: 0;
+	width: 145px !important;
+	padding: 6px 12px;
+	text-align: center;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+.demo_changer .img-thumbnail {
+	height: 35px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	margin-bottom: 5px;
+	width: 46% !important;
+	padding: 2px;
+}
+.demo_changer img {
+	border: 4px solid #E1E1E1;
+	height: 32px;
+	margin: 2px !important;
+	width: 32px !important;
+}
+.demo_changer hr {
+	border-color: #E0E0E0;
+}
+.demo_changer, .demo_changer p {
+	color: #545454 !important;
+}
+.demo_changer h4 {
+	color: #212121 !important;
+	font-size: 12px;
+	padding-bottom: 0;
+	text-align: center;
+}
+.demo_changer i {
+	color: #fff;
+	font-size: 21px;
+}
+.demo_changer .btn {
+	margin-top: 10px;
+}
+.demo_changer .demo-icon {
+	cursor: pointer;
+	text-align: center;
+	padding: 2px;
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	width: 40px;
+	background: #ff3366;
+}
+.demo_changer .form_holder {
+	background: #ffffff;
+	border: 1px solid #ddd;
+	border-radius: 0;
+	cursor: pointer;
+	font-size: 12px;
+	padding: 6px;
+	width: 71px;
+	margin-left: -71px;
+}
+.demo_changer .form_holder p {
+	font-size: 12px;
+}
+.demoPanel {
+	margin: 0;
+	padding: 0;
+	width: 125px;
+}
+.predefined_styles {
+	padding: 0 5px;
+	margin-top: -35px;
+}
+ @media only screen and (max-width: 768px) {
+
+}
+.demo_changer .btn {
+	width: 165px !important;
+}
+ @media (max-width: 800px) {
+.demo_changer {
+	top:200px;
+}
+}
